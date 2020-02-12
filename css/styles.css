@@ -1,5 +1,7 @@
 body {
-  background: #cccccc;
+  /* 
+  uncomment this line if you dont'use SASS
+  background: #cccccc; */
 }
 
 #menu {
